@@ -30,3 +30,6 @@ META-INF/
 
 # externalized configuration file for keys
 exchangeConfiguration.json
+
+# SVN files
+*svn/
